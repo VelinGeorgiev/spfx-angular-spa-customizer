@@ -2,10 +2,15 @@
 
 #### This is experimental and I have never used in produciton
 
+### Prerequisites
+
+- Angular CLI installed
+- SharePoint Frameowrk developement setup done
+
 #### How to make it work
 
-Open command line
-Go to the project dir
+- Open command line
+- Go to the project dir
 
 ```
 cd angluarcli-app/my-dream-app
