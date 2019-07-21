@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SpaBootstrap"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="52c9ac84-284d-4544-9d60-0ddf6ad5225c"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

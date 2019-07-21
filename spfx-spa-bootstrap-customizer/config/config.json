@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "spa-bootstrap-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/spaBootstrap/SpaBootstrapApplicationCustomizer.js",
+          "manifest": "./src/extensions/spaBootstrap/SpaBootstrapApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpaBootstrapApplicationCustomizerStrings": "lib/extensions/spaBootstrap/loc/{locale}.js"
+  }
+}
